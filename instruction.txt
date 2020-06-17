@@ -1,0 +1,4 @@
+STEP BY STEP INSTRUCTION
+
+1. Create Virtual Machine on Microsoft Azure platform (example size: Standard L4s (4 vcpus, 32 GiB memory).
+2. After creating the machine go to the "Settings" section on navigation bar and click "Networking" (more on ss1.png)
