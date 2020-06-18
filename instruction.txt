@@ -1,4 +1,7 @@
 STEP BY STEP INSTRUCTION
 
-1. Create Virtual Machine on Microsoft Azure platform (example size: Standard L4s (4 vcpus, 32 GiB memory).
-2. After creating the machine go to the "Settings" section on navigation bar and click "Networking" (more on ss1.png)
+1. Create Virtual Machine on Microsoft Azure platform (example size: Standard L4s (4 vcpus, 32 GiB memory)).
+2. After creating the machine log to the https://portal.azure.com/
+3. Go to the "Settings" section on navigation bar and click "Networking", and check if you have Port_8080 (more on ss1.png). 
+If Port_8080 do not exist, create one.
+4. Go to the "Overiew" section and click "Start" (more on ss2.png).
