@@ -5,3 +5,7 @@ STEP BY STEP INSTRUCTION
 3. Go to the "Settings" section on navigation bar and click "Networking", and check if you have Port_8080 (more on ss1.png). 
 If Port_8080 do not exist, create one.
 4. Go to the "Overiew" section and click "Start" (more on ss2.png).
+5. When VM will start, the status will change from "starting" to "running" (ss3.png).
+6. Go again to the "Networking", find "NIC Public IP" and copy your public ip (ss4.png).
+7. Open new tab (ctrl+t for Chrome), paste the ip and add :8080 to your IP. 
+8. Ambari login screen will apear (ss5.png).
