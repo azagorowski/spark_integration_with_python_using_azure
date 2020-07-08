@@ -12,3 +12,4 @@ If Port_8080 do not exist, create one.
 9. Type login and password (sandbox e.g. maria_dev) and click "Sign in" .
 10. Find the "background operaions" icon (shortcut "ops") in the left top side of the screen and click on it (ss6.png).
 11. Wait until all operations will start (100%) (ss7.png).
+12. Check if all services have started (ss8.png).
