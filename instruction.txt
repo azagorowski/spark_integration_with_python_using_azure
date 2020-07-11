@@ -16,3 +16,4 @@ If Port_8080 do not exist, create one.
 13. Go to http://www.rdatasciencecases.org/Data/Airline/ and download data sample with flights (for e.g. 1991.csv).
 14. Go back to Ambari and find the "View" icon in the right top side of the screen (ss9.png).
 15. Click on the "Files View" (ss10.png), then find "user" folder (ss11.png).
+16. Find the folder with your user name (in this case: maria_dev) (ss12.png).
